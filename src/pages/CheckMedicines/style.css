@@ -1,0 +1,17 @@
+.CheckMedicines {
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  .btn-calc {
+    border-radius: 25px;
+  }
+
+  .weight .MuiOutlinedInput-root{
+    border-radius: 20px;
+  }
+
+  .height .MuiOutlinedInput-root{
+    border-radius: 20px;
+  }
+  
